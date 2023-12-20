@@ -1,4 +1,4 @@
-public class Gen3 {
+public class GenThree {
     public static void main(String[] args){
         int low = Integer.parseInt(args[0]);
         int high = Integer.parseInt(args[1]);
